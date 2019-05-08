@@ -14,7 +14,7 @@ namespace Arrays_Intro
 
             Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);
-            Console.WriteLine(numbers[2]);
+            Console.WriteLine(numbers[1]);
 
             var flags = new bool[3];
             flags[0] = true;
